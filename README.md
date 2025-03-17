@@ -14,4 +14,4 @@ Este repositório contém o **Plano de Ensino** do curso de Engenharia de Comput
   Descreve os instrumentos de avaliação, datas de entrega dos projetos e peso de cada atividade na nota final, enfatizando a importância do desenvolvimento contínuo e do trabalho em equipe.
 
 - **Bibliografia**  
-  Lista as referências básicas e complementares, incluindo livros sobre automação, Arduino, gerenciamento de projetos e computação em nuvem.
+  Lista as referências básicas e complementares, incluindo automação, Arduino, gerenciamento de projetos e computação em nuvem.
